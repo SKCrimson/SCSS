@@ -1,0 +1,18 @@
+@import "variables";
+
+body {
+   background-color: $main-background;
+}
+
+h1 { 
+   color: $main-color;
+   font-size: $h1-size;
+   padding: $main-padding;
+}
+
+p {
+   font-size: $main-size;
+   color: $main-color;
+   border: 2px dotted $border-color;
+   padding: $main-padding;
+}
