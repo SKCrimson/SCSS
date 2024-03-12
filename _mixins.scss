@@ -1,0 +1,12 @@
+
+@mixin main-button {
+    background-color: rgb(178, 215, 254);
+    font-size: 18px;
+    border: 2px solid rgb(123, 123, 249);
+ }
+ 
+ @mixin alert-button {
+    background-color: rgb(255, 202, 202);
+    font-size: 18px;
+    border: 2px solid rgb(250, 119, 102);
+ }
